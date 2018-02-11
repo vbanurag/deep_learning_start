@@ -1,0 +1,7 @@
+https://www.superdatascience.com/podcast-unstoppable-data-science-reckless-commitment-artificial-intelligence/ ---> for extra resources
+
+1. superdatascience.com/deep-learning
+2. Jefery Hinton - father of deep learning
+3. Neural netwrok model :->  https://stats.stackexchange.com/questions/154879/a-list-of-cost-functions-used-in-neural-networks-alongside-applications
+4. Gradient descent :-> https://iamtrask.github.io/2015/07/27/python-network-part2/
+5. Mathematical approach for gradient descent :-> http://neuralnetworksanddeeplearning.com/chap2.html
